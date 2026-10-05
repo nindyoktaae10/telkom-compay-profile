@@ -30,4 +30,5 @@ require 'includes/header.php';
         </form> 
     </div> 
 </section> 
+<!-- Simulasi unstage -->
 <?php require 'includes/footer.php'; ?> 
