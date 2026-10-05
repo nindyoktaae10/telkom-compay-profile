@@ -1,2 +1,2 @@
-Repository latihan Git pertama saya.
+Perubahan ini dibuat dari simulasi Laptop B.
 Target: memahami staging dan commit.
